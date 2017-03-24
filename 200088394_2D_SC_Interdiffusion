@@ -1,6 +1,6 @@
 clear all; clc;
 
-MaxNumRun = 100; %Maximum times of running - increasing value gets closer to equilibrium
+MaxNumRun = 100; %Maximum number of runns - increasing value gets closer to equilibrium
 MaxNumRow = 103; %Maximum number of atoms for the row
 MaxNumCol = 103; %Maximum number of atoms for the column
 DistributionPattern = zeros(MaxNumRow, MaxNumCol);
